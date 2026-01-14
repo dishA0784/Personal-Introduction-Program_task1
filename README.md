@@ -19,4 +19,10 @@ This is a simple Python program that collects user information such as name, age
 Download Python from: https://www.python.org  
 Check installation:
 ```bash
-python --version
+python --version 
+```
+
+### Step 2: Run Code 
+```bash
+py intro.py
+```
